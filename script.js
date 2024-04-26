@@ -13,5 +13,5 @@ function firstChar(str) {
 }
 // Do not change the code below
 
-//const text = prompt("Enter text:");
-alert(firstChar(text));
+const txt = prompt("Enter text:");
+alert(firstChar(txt));
